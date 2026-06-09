@@ -124,7 +124,7 @@ https://github.com/Artaaaaux
 
 <br>
 
-**[![Discord](https://img.shields.io/badge/Discord-artaaaux-5865F2?style=flat-square\&logo=discord\&logoColor=white)](#)**
+[![Discord](https://img.shields.io/badge/Discord-artaaaux-5865F2?style=flat-square\&logo=discord\&logoColor=white)](#)
 
 Username: **artaaaux**
 

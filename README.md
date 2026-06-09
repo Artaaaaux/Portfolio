@@ -114,13 +114,22 @@ npm run build
 
 ## 👨‍💻 Contact
 
+______________________________
 📧 Email
 
 [azadirachta.perwira@gmail.com](mailto:azadirachta.perwira@gmail.com)
+______________________________
 
+______________________________
 🐙 GitHub
 
 https://github.com/Artaaaaux
+______________________________
+
+______________________________
+<img src="https://cdn.simpleicons.org/discord" width="18" /> Discord
+Username: artaaaaux
+______________________________
 
 ---
 

@@ -118,9 +118,9 @@ npm run build
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Artaaaaux-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Artaaaaux)
+[![GitHub](https://img.shields.io/badge/GitHub-Artaaaux-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Artaaaaux)
 
-https://github.com/Artaaaaux
+https://github.com/Artaaaux
 
 <br>
 
